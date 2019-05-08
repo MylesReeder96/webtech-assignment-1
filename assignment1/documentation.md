@@ -11,7 +11,8 @@ Table of contents:
 
 > The overall goal of the assignment is to be able to produce a fully functional website or application that is resposive and 
 is able to publicise and solve a current real-world problem. The resulting website should then be able show a range of functionality
-and ability to use vary web application software including HTML5, CSS and Javascript. 
+and ability to use vary web application software including HTML5, CSS and Javascript. the website also needs to be made in a 
+way that is going to be usable for users and follow government guidelines.
 
 # 2. Specification
 
@@ -35,6 +36,10 @@ of these reasonably enables of the features of the website to stand out. additio
 the risk of clashing colours which could make certain parts of thge website difficult to read or in some cases unreadable. 
 
 >headers and footers:
+As can be observed the headers and footers of all of the different pages are identical the reason being for this again being
+simplicity. The last thing a user wants to see when they go onto a website they are not entirely familiar with is all of the 
+navigation bars changing positions every time that they go to another page as it just make it confusing
+
 >main sections:
 
 ## 2.3. Accessability
