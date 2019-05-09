@@ -35,7 +35,7 @@ colours that i have chosen for the website are '#286bd6' which is the darker blu
 of these reasonably enables of the features of the website to stand out. additionally the use of as few colours as possibly reduces
 the risk of clashing colours which could make certain parts of thge website difficult to read or in some cases unreadable. 
 
->headers and footers:
+> headers and footers:
 As can be observed the headers and footers of all of the different pages are identical the reason being for this again being
 simplicity. The last thing a user wants to see when they go onto a website they are not entirely familiar with is all of the 
 navigation bars changing positions every time that they go to another page as it just make it confusing
