@@ -40,7 +40,10 @@ As can be observed the headers and footers of all of the different pages are ide
 simplicity. The last thing a user wants to see when they go onto a website they are not entirely familiar with is all of the 
 navigation bars changing positions every time that they go to another page as it just make it confusing
 
->main sections:
+> main sections:
+They main sections of each page as you can assume contain the majority of the features of each of the pages. these are the areas
+that have all of the different information for what each of the page is named after and has been thought out to make it possible to
+easily access all of the information.
 
 ## 2.3. Accessability
 
