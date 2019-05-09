@@ -1,3 +1,5 @@
+Github public repository: https://github.com/MylesReeder96/webtech-assignment-1
+
 Table of contents:
 1. Introduction
 2. specification
@@ -31,9 +33,9 @@ simple layout for all of the wireframes just to avoid issues with things clutter
 ## 2.2. Project colours
 > In the case of the colour scheme that has been chosen for the website it is important when creating a bio type page to keep it
 simple and in regardds to this having a colour scheme that fits with what the webpage is trying to deliver. there for the main
-colours that i have chosen for the website are '#286bd6' which is the darker blue and '#E4E4E' as the main background colour. The use
-of these reasonably enables of the features of the website to stand out. additionally the use of as few colours as possibly reduces
-the risk of clashing colours which could make certain parts of thge website difficult to read or in some cases unreadable. 
+colours that i have chosen for the website are '#286bd6' which is the darker blue and '#E4E4E' as the main background colour. The
+use of these reasonably enables of the features of the website to stand out. additionally the use of as few colours as possibly
+reduces the risk of clashing colours which could make certain parts of thge website difficult to read or in some cases unreadable. 
 
 > headers and footers:
 As can be observed the headers and footers of all of the different pages are identical the reason being for this again being
@@ -46,8 +48,25 @@ that have all of the different information for what each of the page is named af
 easily access all of the information.
 
 ## 2.3. Accessability
+> In terms of accessability for those that struggle with seeing the is often a built in function within most browsers that allows
+for text-to-speak on webpages. an example of this would be chrome addons. they allow the user to add them to their personal chrome
+documents amd then when a page is opened it will read it to the user.
 
 # 3.Conformation to UK law
 
 
 # 4.Evaluation
+> To what extent did you tackle the problem that you set out to solve?
+I believe i have addressed the initial issue that i set out out to resolve which was to create a portfolio type page of me as a 
+person. in addition to this i have ussed validation for the forms to allow people to contact me if they are interested in
+contacting me for a job for example.
+
+> What problems did you encounter along the way?
+One of the main issues in the creation of the webpage was that the CSS links kept breaking when i was testing the webpage. i had to 
+change its format a number of times during the process of making the website.
+
+> How did you test your website/web-application on multiple devices, and what did you find out?
+
+> What informed your design choices?
+one of the biggest inflences for my design choices was looking at other proffessional business websites and blogs for people and as
+a result the end design
